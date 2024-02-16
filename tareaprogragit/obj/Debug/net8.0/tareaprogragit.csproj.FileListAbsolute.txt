@@ -1,0 +1,14 @@
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\bin\Debug\net8.0\tareaprogragit.exe
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\bin\Debug\net8.0\tareaprogragit.deps.json
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\bin\Debug\net8.0\tareaprogragit.runtimeconfig.json
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\bin\Debug\net8.0\tareaprogragit.dll
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\bin\Debug\net8.0\tareaprogragit.pdb
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.AssemblyInfoInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.AssemblyInfo.cs
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.csproj.CoreCompileInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.dll
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\refint\tareaprogragit.dll
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.pdb
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\tareaprogragit.genruntimeconfig.cache
+C:\Users\fredy\OneDrive\Escritorio\tareaprogragit\tareaprogragit\obj\Debug\net8.0\ref\tareaprogragit.dll
